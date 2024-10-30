@@ -1,0 +1,28 @@
+{
+  "deno.config": "client/tsconfig.json",
+  "deno.enable": true,
+  "deno.unstable": true,
+  "deno.lint": true,
+  "cSpell.words": [
+    "Borrar",
+    "cadena",
+    "calcula",
+    "calcular",
+    "centrado",
+    "digito",
+    "divdate",
+    "divtd",
+    "divth",
+    "drawdate",
+    "fecha",
+    "hola",
+    "imgplus",
+    "routerfreq",
+    "sinsimbol",
+    "tabledetail",
+    "tdtotal",
+    "thdetail",
+    "totalpayout",
+    "totalwinners"
+  ],
+}
